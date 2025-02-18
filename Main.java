@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         int count = 0;
-        Items[] totalItems = new Items[50]; // You may want to switch to ArrayList<Items> for dynamic sizing
+        Items[] totalItems = new Items[50]; 
         Scanner input = new Scanner(System.in);
         Items item;
 
